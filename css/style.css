@@ -1,0 +1,170 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+.Home a {
+ padding: 10px;  
+ text-decoration: none; 
+}
+.London h3{
+    cursor: pointer;
+}
+.Social a{
+    padding: 10px;
+     text-decoration: none;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.header h2{
+ text-align: center;
+ font-family: sans-serif ;
+}
+.images{
+    display: flex;
+    margin: 0 40px;
+    
+}
+.darkness {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-image: url(/images/Darkness.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    width: 50%;
+    
+}
+.dont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image:url(/images/dont.jpg);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-size: cover;
+}
+.image3{
+     text-align: center;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/images/It.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.image4{
+    display: flex;
+    margin: 0 40px;
+}
+.clean-line {
+display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/images/Clean.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    
+}
+.all-spikes {
+    background-image: url(/images/All.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.image6 {
+background-image: url(/images/Green.jpg);
+background-position: center;
+background-size: cover;
+height: 400px;
+ align-items: center;
+ justify-content: center;
+  display: flex;
+  text-align:center;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.image7 {
+ display: flex; 
+ margin: 0 40px;  
+}
+.get-fruity{
+    background-image: url(/images/Get.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 50%;
+}
+.fur-series{
+    background-position: center;
+    background-size: cover;
+    background-image: url(/images/dog.jpg);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 400px;
+    width: 50%;
+}
+.image9 {
+background-position: center; 
+background-image: url(/images/new.jpg);
+background-size: cover;  
+align-items: center;
+justify-content: center;
+display: flex;
+text-align: center;
+height: 400px;
+margin-left: 40px;
+margin-right: 40px;
+}
+.image10 {
+    display: flex;
+    margin:0 40px ;
+}
+.last {
+    background-size: cover;
+    background-image: url(/images/free.jpg);
+    background-position: center;
+align-items: center;
+display: flex;
+justify-content: center;
+height: 400px;
+width: 50%;
+
+}
+.hello {
+    background-image: url(/images/Hello.jpg);
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    width: 50%;
+
+}
